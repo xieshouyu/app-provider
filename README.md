@@ -1,2 +1,2 @@
 # app-provider 
-## demo
+## provider-demo
